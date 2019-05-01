@@ -1,0 +1,8 @@
+start project: npm init
+install express: npm install --save express
+--save: adds to dependency so others can npm install all dependencies
+
+heroku create _name_
+heroku commit
+in package.json
+start: node server.js 
